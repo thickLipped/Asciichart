@@ -1,0 +1,52 @@
+
+public class CharChart {
+
+
+    public static void main  (String[] args)
+  {
+
+char nul= 0;
+String cnul= ("null");
+char openSmiley= 1;
+char closedSmiley= 2;
+char heart= 3;
+char diamond= 4;
+char club= 5;
+char spade= 6;
+char bel= 7;
+String cbel= ("bell");
+char bcksp= 8;
+String cbcksp= ("Bcksp");
+char tab= 9;
+String ctab= ("htab");
+char nline= 10;
+String cnline= ("New Line");
+char vtab= 11;
+String cvtab= ("Vert Tab");
+char c12= 12;
+
+
+
+
+
+
+
+System.out.print(" 0=" +cnul);
+System.out.print(" 1=" +openSmiley);
+System.out.print(" 2=" +closedSmiley);
+System.out.print(" 3=" +heart);
+System.out.print(" 4=" +diamond);
+System.out.print(" 5=" +club);
+System.out.print(" 6=" +spade);
+System.out.print(" 7=" +cbel);
+System.out.print(" 8=" +cbcksp);
+System.out.print(" 9=" +ctab);
+System.out.print(" 10=" +cnline);
+System.out.print(" 11=" +cvtab);
+System.out.print(" 12=" +c12);
+
+}
+
+
+
+}
