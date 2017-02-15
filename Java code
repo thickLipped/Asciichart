@@ -21,9 +21,8 @@ char tab= 9;
 String ctab= ("htab");
 char nline= 10;
 String cnline= ("New Line");
-char vtab= 11;
-String cvtab= ("Vert Tab");
-char c12= 12;
+char mSymbol= 11;
+char fSymbol= 12;
 
 
 
@@ -42,8 +41,8 @@ System.out.print(" 7=" +cbel);
 System.out.print(" 8=" +cbcksp);
 System.out.print(" 9=" +ctab);
 System.out.print(" 10=" +cnline);
-System.out.print(" 11=" +cvtab);
-System.out.print(" 12=" +c12);
+System.out.print(" 11=" + mSymbol);
+System.out.print(" 12=" +fSymbol);
 
 }
 
