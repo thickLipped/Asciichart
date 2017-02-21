@@ -172,7 +172,6 @@ char c218= 218;
 char c219= 219;
 char c220= 220;
 char c221= 221;
-char c128 = 128;
 char c129 = 129;
 char c130 = 130;
 char c131 = 131;
@@ -334,7 +333,7 @@ System.out.print(" 125=" +closeBrace);
 System.out.print(" 126=" +tilde);
 System.out.print(" 127=" +house);
 System.out.print(" 128=" +c128);
-System.out.print("128=" +c128);
+
 System.out.print("129=" +c129);
 System.out.print("130=" +c130);
 System.out.print("131=" +c131);
