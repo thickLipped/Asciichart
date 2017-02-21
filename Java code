@@ -1,5 +1,4 @@
 
-
 public class CharChart {
 
 
@@ -25,7 +24,7 @@ String cnline= ("New Line");
 char mSymbol= 11;
 char fSymbol= 12;
 char CR= 13;
-String CR= ("Cr");
+String cCR= ("Cr");
 char musicNote= 14;
 char asterik= 15;
 char rightArrow= 16;
@@ -62,14 +61,14 @@ char periodSign=46;
 char frontSlash=47;
 char c0=48;
 char c1=49;
-char c3=50;
-char c4=51;
-char c5=52;
-char c6=53;
-char c7=54;
-char c8=55;
-char c9=56;
-char c10=57;
+char c2=50;
+char c3=51;
+char c4=52;
+char c5=53;
+char c6=54;
+char c7=55;
+char c8=56;
+char c9=57;
 char colon=58;
 char semiColon=59;
 char lessThanSign=60;
@@ -137,12 +136,10 @@ char cy=121;
 char cz=122;
 char openBrace=123;
 char verticalBar=124;
-char closeBace=125;
-char tidle=126;
+char closeBrace=125;
+char tilde=126;
 char house=127;
 char c128=128;
-
-
 
 
 System.out.print(" 0=" +cnul);
@@ -158,8 +155,156 @@ System.out.print(" 9=" +ctab);
 System.out.print(" 10=" +cnline);
 System.out.print(" 11=" + mSymbol);
 System.out.print(" 12=" +fSymbol);
-System.out.print(" 13=" +cCR);
-System.out.print(" 14=" +c14)
+System.out.print(" 13=" +CR);
+System.out.print(" 14=" +musicNote);
+System.out.print(" 15=" +asterik);
+System.out.print(" 16=" +rightArrow);
+System.out.print(" 17=" +leftArrow);
+System.out.print(" 18=" +upDownArrow);
+System.out.print(" 19=" +dubExlmation);
+System.out.print(" 20=" +pargraph);
+System.out.print(" 21=" +sS);
+System.out.print(" 22=" +thickUnderScore);
+System.out.print(" 23=" +filledUpDownArrow);
+System.out.print(" 24=" +upArrow);
+System.out.print(" 25=" +downArrow);
+System.out.print(" 26=" +smallRightArrow);
+System.out.print(" 27=" +smallLeftArrow);
+System.out.print(" 28=" +fallenL);
+System.out.print(" 29=" +leftRightArrow);
+System.out.print(" 30=" +upArrowTip);
+System.out.print(" 31=" +downArrowTip);
+System.out.print(" 32=" +space);
+System.out.print(" 33=" +singleExlamation);
+System.out.print(" 34=" +quoteMark);
+System.out.print(" 35=" +hastag);
+System.out.print(" 36=" +dollaSign);
+System.out.print(" 37=" +percentSign);
+System.out.print(" 38=" +andSign);
+System.out.print(" 39=" +apostrophe);
+System.out.print(" 40=" +openParentheses);
+System.out.print(" 41=" +closeParentheses);
+System.out.print(" 42=" +multiplySign);
+System.out.print(" 43=" +plusSign);
+System.out.print(" 44=" +commaSign);
+System.out.print(" 45=" +dashSign);
+System.out.print(" 46=" +periodSign);
+System.out.print(" 47=" +frontSlash);
+System.out.print(" 48=" +c0);
+System.out.print(" 49=" +c1);
+System.out.print(" 50=" +c2);
+System.out.print(" 51=" +c3);
+System.out.print(" 52=" +c4);
+System.out.print(" 53=" +c5);
+System.out.print(" 54=" +c6);
+System.out.print(" 55=" +c7);
+System.out.print(" 56=" +c8);
+System.out.print(" 57=" +9);
+System.out.print(" 58=" +colon);
+System.out.print(" 59=" +semiColon);
+System.out.print(" 60=" +lessThanSign);
+System.out.print(" 61=" +equalsSign);
+System.out.print(" 62=" +greaterSign);
+System.out.print(" 63=" +questionMark);
+System.out.print(" 64=" +atSign);
+System.out.print(" 65=" +cA);
+System.out.print(" 66=" +cB);
+System.out.print(" 67=" +cC);
+System.out.print(" 68=" +cD);
+System.out.print(" 69=" +cE);
+System.out.print(" 70=" +cF);
+System.out.print(" 71=" +cG);
+System.out.print(" 72=" +cH);
+System.out.print(" 73=" +cI);
+System.out.print(" 74=" +cJ);
+System.out.print(" 75=" +cK);
+System.out.print(" 76=" +cL);
+System.out.print(" 77=" +cM);
+System.out.print(" 78=" +cN);
+System.out.print(" 79=" +cO);
+System.out.print(" 80=" +cP);
+System.out.print(" 81=" +cQ);
+System.out.print(" 82=" +cR);
+System.out.print(" 83=" +cS);
+System.out.print(" 84=" +cT);
+System.out.print(" 85=" +cU);
+System.out.print(" 86=" +cV);
+System.out.print(" 87=" +cW);
+System.out.print(" 88=" +cX);
+System.out.print(" 89=" +cY);
+System.out.print(" 90=" +cZ);
+System.out.print(" 91=" +openBracket);
+System.out.print(" 92=" +backslash);
+System.out.print(" 93=" +closeBracket);
+System.out.print(" 94=" +carrot);
+System.out.print(" 95=" +underScore);
+System.out.print(" 96=" +apostrophe2);
+System.out.print(" 97=" +ca);
+System.out.print(" 98=" +cb);
+System.out.print(" 99=" +cc);
+System.out.print(" 100=" +cd);
+System.out.print(" 101=" +ce);
+System.out.print(" 102=" +cf);
+System.out.print(" 103=" +cg);
+System.out.print(" 104=" +ch);
+System.out.print(" 105=" +ci);
+System.out.print(" 106=" +cj);
+System.out.print(" 107=" +ck);
+System.out.print(" 108=" +cl);
+System.out.print(" 109=" +cm);
+System.out.print(" 110=" +cn);
+System.out.print(" 111=" +co);
+System.out.print(" 112=" +cp);
+System.out.print(" 113=" +cq);
+System.out.print(" 114=" +cr);
+System.out.print(" 115=" +cs);
+System.out.print(" 116=" +ct);
+System.out.print(" 117=" +cu);
+System.out.print(" 118=" +cv);
+System.out.print(" 119=" +cw);
+System.out.print(" 120=" +cx);
+System.out.print(" 121=" +cy);
+System.out.print(" 122=" +cz);
+System.out.print(" 123=" +openBrace);
+System.out.print(" 124=" +verticalBar);
+System.out.print(" 125=" +closeBrace);
+System.out.print(" 126=" +tilde);
+System.out.print(" 127=" +house);
+System.out.print(" 128=" +c128);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
