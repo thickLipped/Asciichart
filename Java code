@@ -172,6 +172,17 @@ char c157 = 157;
 char c158 = 158;
 char c159 = 159;
 
+char c170=170;
+char c171=171;
+char c172=172;
+char c173=173;
+char c174=174;
+char c175=175;
+char c176=176;
+char c177=177;
+char c178=178;
+char c179=179;
+
 char c190= 190;
 char c191= 191;
 char c192= 192;
@@ -365,6 +376,18 @@ System.out.print("156=" +c156);
 System.out.print("157=" +c157);
 System.out.print("158=" +c158);
 System.out.print("159=" +c159);
+
+System.out.print(" 170=" +c170);
+System.out.print(" 171=" +c171);
+System.out.print(" 172=" +c172);
+System.out.print(" 173=" +c173);
+System.out.print(" 174=" +c174);
+System.out.print(" 175=" +c175);
+System.out.print(" 176=" +c176);
+System.out.print(" 177=" +c177);
+System.out.print(" 178=" +c178);
+System.out.print("179=" +c179)
+
 
 System.out.print(" 190="+ c190);
 System.out.print(" 191="+ c191);
