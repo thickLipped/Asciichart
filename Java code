@@ -428,7 +428,16 @@ System.out.print("156=" +c156);
 System.out.print("157=" +c157);
 System.out.print("158=" +c158);
 System.out.print("159=" +c159);
-
+System.out.print("160=" +c160);
+System.out.print("161=" +upsddwex);
+System.out.print("162=" +money);
+System.out.print("163=" +c163);
+System.out.print("164=" +quesmark);
+System.out.print("165=" +c165);
+System.out.print("166=" +c166);
+System.out.print("167=" +c167);
+System.out.print("168=" +c168);
+System.out.print("169=" +c169);
 System.out.print(" 170=" +c170);
 System.out.print(" 171=" +c171);
 System.out.print(" 172=" +c172);
