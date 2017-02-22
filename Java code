@@ -171,7 +171,16 @@ char c156 = 156;
 char c157 = 157;
 char c158 = 158;
 char c159 = 159;
-
+char c160=160;
+char upsddwex=161;
+char money=162;
+char c163=163;
+char quesmark=164;
+char c165=165;
+char c166=166;
+char c167=167;
+char c168=168;
+char c169=169;
 char c170=170;
 char c171=171;
 char c172=172;
