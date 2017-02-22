@@ -395,7 +395,17 @@ System.out.print(" 175=" +c175);
 System.out.print(" 176=" +c176);
 System.out.print(" 177=" +c177);
 System.out.print(" 178=" +c178);
-System.out.print("179=" +c179)
+System.out.print("179=" +c179);
+System.out.print(" 180="+ c180);
+System.out.print(" 181="+ c181);
+System.out.print(" 182="+ c182);
+System.out.print(" 183="+ c183);
+System.out.print(" 184="+ c184);
+System.out.print(" 185="+ c185);
+System.out.print(" 186="+ c186);
+System.out.print(" 187="+ c187);
+System.out.print(" 188="+ c188);
+System.out.print(" 189="+ c189);
 
 
 System.out.print(" 190="+ c190);
